@@ -1,0 +1,9 @@
+# git-practice
+このリポジトリはGit動画講座用です．
+ローカルリポで変更  
+<<<<<<< HEAD
+rebase-practiceブランチにて更新(rebaseコンフリクト用)
+=======
+rebase-practiceブランチにて更新(rebaseコンフリクト用)
+rebase pull 用
+>>>>>>> 9642b31474d031fac4a1bc75b9be9af9d97821c1
