@@ -1,2 +1,2 @@
 mainブランチで作成
-pull時のrebase用コミットとして作成
+pull時のrebase用コミットとして作成  
